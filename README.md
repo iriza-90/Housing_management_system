@@ -1,15 +1,15 @@
 
-Housing Management System
+**Housing Management System**
 A Housing Management System built with Django that allows users to manage properties, handle tenant applications, and monitor the status of various rental properties. The system provides an interface for tenants to apply for properties and for landlords to manage their listings.
 
-Table of Contents
-Features
-Tech Stack
-Installation
-Usage
-Contributing
-License
-Features
+**Table of Contents**
+-Features
+-Tech Stack
+-Installation
+-Usage
+-Contributing
+-License
+**Features**
 Property Management: Landlords can add, update, and manage rental properties.
 Tenant Applications: Tenants can apply for properties with a custom message, and landlords can approve or reject these applications.
 Status Tracking: The system tracks the application status (pending, approved, rejected) for each tenant.
